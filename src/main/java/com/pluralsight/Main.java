@@ -7,7 +7,7 @@ public class Main {
         slowRide.setColor("Red");
         slowRide.setFuelCapacity(5);
 
-        Car Barbie  = new Car();
+        Car Barbie  = new Car("pink",2, );
         Barbie.setColor("Pink");
         Barbie.setFuelCapacity(10);
 
